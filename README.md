@@ -1,6 +1,6 @@
-# httyd-place
+# probe-place
 
-I made this because I wanted multiple people to be able to update the template image.
+This is a fork from [httpy-place](https://github.com/Anticept/httyd-place/)
 
 ## HOW TO USE THE TEMPLATE AND SCRIPT ON /r/place
 Our friends at r/osuplace have made an overlay script! Use this to make sure you're placing pixels in the right spot.
